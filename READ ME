@@ -1,0 +1,91 @@
+# 📚 AI-Assisted Humanities Survival Kit for STEM Students
+
+> “This is not a rebellion against literature. It is a rebellion against wasting cognitive bandwidth on chaos.”
+
+## 🧠 Project Purpose
+
+This repository documents how a STEM-track student survives high school humanities courses — especially literature and history — with the help of AI tools like ChatGPT, Notion, and GitHub.
+
+The goal: 
+- To preserve cognitive energy for core subjects (math, physics, CS)
+- To build structure in inherently unstructured content
+- To output high-quality work *without being crushed by low-efficiency tasks*
+
+---
+
+## 🎯 Why This Project Exists
+
+In many schools, STEM students are required to write deep literary analysis, historical narratives, and reflective essays — in a foreign language, with no structured logic, under strict "no AI" rules.  
+This project is a counterbalance.
+
+We believe:
+- AI tools don't destroy education — they **recover your time** and **extend your limits**.
+- Using AI to clarify, summarize, and translate is not cheating — it's **accessibility**.
+- Writing with AI **doesn't mean giving up thinking** — it means **thinking more clearly**.
+
+---
+
+## 🛠️ Toolkit Overview
+
+| Tool | Use Case |
+|------|----------|
+| 🧠 ChatGPT | Translate literary texts / Generate outline / Draft rough ideas |
+| 📒 Notion | Organize research, tag quotes, create "theme maps" |
+| 🧾 GitHub | Version control / Show workflow / Share polished outputs |
+| 📘 Grammarly / DeepL | Language clarity + idiomatic phrasing |
+
+---
+
+## 🗂️ Project Sections
+
+### 1. `case-studies/`
+> 📁 Real examples of how AI was used in actual assignments  
+> ✅ Each with prompts, AI output, human edits, and final submission
+
+### 2. `prompt-templates/`
+> 📁 AI prompts for typical literature/history tasks (e.g. character analysis, symbolism, DBQ, etc.)
+
+### 3. `output-vs-original/`
+> 📁 Side-by-side comparison of AI draft, final human-edited version, and teacher feedback
+
+### 4. `reading-comprehension/`
+> 📁 Notes on how to use AI to read complex texts  
+> ✅ Including structure extraction, timeline mapping, and quote tagging
+
+---
+
+## ✊ Philosophy
+
+> “AI is not replacing the human mind — it's replacing the chaos that blocks it.”
+
+This project does not promote blind reliance on AI.  
+It promotes *smart collaboration* between human thought and machine capability — especially for students with:
+- Different cognitive strengths
+- Language barriers
+- Limited time and energy
+
+---
+
+## 📌 For Educators
+
+If you're a teacher, please understand:  
+Students aren't cheating — they're surviving.  
+What you see here is **not laziness**, it's **strategic adaptation**.
+
+---
+
+## 👤 Maintainer
+
+Built and maintained by a STEM student who believes:
+- Not all brains are wired for literary immersion
+- Time is not infinite
+- Efficiency is not a crime
+
+> “I don't hate literature. I just want to live.”
+
+---
+
+## 🧭 License
+
+This project is open-source and meant for educational purposes. All AI outputs and human edits are credited accordingly.
+
